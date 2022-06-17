@@ -9,7 +9,7 @@ function generateUser() {
         name: faker.name.findName(),
         email: faker.internet.email(),
         gender: 'female',
-        status: 'inctive'
+        status: 'inactive'
     }
 }
 
